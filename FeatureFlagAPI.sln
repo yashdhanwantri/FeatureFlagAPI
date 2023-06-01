@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FeatureFlagAPI", "FeatureFlagAPI.csproj", "{DF3F045D-049C-4E0E-A1A5-930E724745EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF3F045D-049C-4E0E-A1A5-930E724745EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF3F045D-049C-4E0E-A1A5-930E724745EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF3F045D-049C-4E0E-A1A5-930E724745EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF3F045D-049C-4E0E-A1A5-930E724745EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC54D257-7274-4288-B22C-84D2EBC13DC8}
+	EndGlobalSection
+EndGlobal
